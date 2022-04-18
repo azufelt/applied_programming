@@ -1,6 +1,6 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+As a software engineer my goal is to develop tools that accomplish a meaningful task to improve life and the digital experience for the end-user. I believe that easy-to-use tools are the tools that get used. Ensuring a tool or application is able to be accessed and used by its intended audience is one of the most important features of development.
 
 {Provide a description of your software}
 
