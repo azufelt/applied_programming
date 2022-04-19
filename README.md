@@ -2,23 +2,17 @@
 
 As a software engineer my goal is to develop tools that accomplish a meaningful task to improve life and the digital experience for the end-user. I believe that easy-to-use tools are the tools that get used. Ensuring a tool or application is able to be accessed and used by its intended audience is one of the most important features of development.
 
-{Provide a description of your software}
+This program is just a simple script that prints "Hello World"
 
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration. It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video] https://youtu.be/IVKb8bF3ovg
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used}
+This script was written in Python using VS Code as the IDE.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+I didn't specifically use an external website for this simple Python script, however these are two sites that I find area wealth of resoursceful information.
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Real Python] https://realpython.com
+- [W3 Schools] https://www.w3schools.com/python/
